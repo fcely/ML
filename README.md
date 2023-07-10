@@ -6,6 +6,10 @@
 <h2>Coupons Exercise</h2>
 
 <p>The purpose of this exercise was to analyze the influence of different variables on the acceptance rate of coupons.</p>
+ 
+<p>To access the Jupyter Notebook, follow the link below:</p>
+<a href="https://github.com/fcely/ML/tree/main/Coupons/prompt.ipynb">Jupyter Notebook</a>
+
 
 <h3>Bar Coupons</h3>
 
