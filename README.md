@@ -56,6 +56,7 @@
 <h2>File Structure</h2>
 
 <ul>
+  <li><code>Coupons/</code>: This is the main folder where the following files and subfolders can be accessed.</li>
   <li><code>data/</code>: Contains the dataset used for the analysis.</li>
   <li><code>prompt/</code>: Includes the jupyter notebook used for data preprocessing and analysis.</li>
   <li><code>images/</code>: Stores the generated visualizations.</li>
