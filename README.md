@@ -86,7 +86,7 @@
 
 <p>Please refer to the code and data analysis for more detailed information.</p>
 
-<img src="https://github.com/fcely/ML/tree/main/Coupons/images/coffee_house_coupon.jpg" alt="Coffee House Coupon">
+<img src="https://github.com/fcely/ML/tree/main/Coupons/images/coffee_house_coupon.png" alt="Coffee House Coupon">
 
 
 <img src="https://github.com/fcely/ML/tree/main/Coupons/images/bar_coupon.jpg" alt="Bar Coupon">
