@@ -86,10 +86,10 @@
 
 <p>Please refer to the code and data analysis for more detailed information.</p>
 
-<img src="images/coffee_house_coupon.jpg" alt="Coffee House Coupon">
+<img src="https://github.com/fcely/ML/tree/main/Coupons/images/coffee_house_coupon.jpg" alt="Coffee House Coupon">
 
 
-<img src="images/bar_coupon.jpg" alt="Bar Coupon">
+<img src="https://github.com/fcely/ML/tree/main/Coupons/images/bar_coupon.jpg" alt="Bar Coupon">
 
 
 <p>Feel free to explore the code and data to gain a deeper understanding of the findings and adapt the analysis to your specific needs.</p>
